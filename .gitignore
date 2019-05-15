@@ -1,0 +1,16 @@
+# emacs
+*~
+
+# eclipse
+.project
+.classpath
+.settings/
+
+# Katalon Studio
+bin/
+Libs/
+Reports/
+
+# Visual Testing
+Materials/
+Storage/
